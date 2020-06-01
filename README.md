@@ -6,4 +6,4 @@ Generates a graphical and mathematical model of a 2d truss. Functions for adding
 
 
 
-**To begin using, enter main() to Matlab's command window and enter help() to see what to do next.
+To begin using, enter main() to Matlab's command window and enter help() to see what to do next.
